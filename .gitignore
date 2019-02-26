@@ -3,12 +3,14 @@
 03/NetworkLibrary/[Oo]bj/
 03/NetworkLibrary/[Bb]uild/
 03/NetworkLibrary/[Bb]uilds/
+03/NetworkLibrary/[Bb]in/
 03/NetworkLibrary/Assets/AssetStoreTools*
 03/SocketSample/[Ll]ibrary/
 03/SocketSample/[Tt]emp/
 03/SocketSample/[Oo]bj/
 03/SocketSample/[Bb]uild/
 03/SocketSample/[Bb]uilds/
+03/SocketSample/[Bb]in/
 03/SocketSample/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
